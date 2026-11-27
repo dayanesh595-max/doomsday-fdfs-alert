@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-11-27T08:51:25",
+  "updated_at": "2026-11-27T11:33:18",
   "seen_keys": [
     "District|2026-12-17|chennai theatre (open link to view list)|06:00 AM",
-    "District|2026-12-17|chennai theatre (open link to view list)|09:30 AM"
+    "District|2026-12-17|chennai theatre (open link to view list)|09:30 AM",
+    "District|2026-12-17|chennai theatre (open link to view list)|10:00 AM"
   ],
   "last_detected": [
     {
       "platform": "District",
       "theatre": "Chennai Theatre (open link to view list)",
-      "showtime": "06:00 AM",
-      "date": "2026-12-17",
-      "formats": "Standard",
-      "language": "English/Tamil",
-      "booking_url": "https://www.district.in/movies/avengers-doomsday-movie-tickets-in-chennai-MV176735"
-    },
-    {
-      "platform": "District",
-      "theatre": "Chennai Theatre (open link to view list)",
-      "showtime": "09:30 AM",
+      "showtime": "10:00 AM",
       "date": "2026-12-17",
       "formats": "Standard",
       "language": "English/Tamil",
