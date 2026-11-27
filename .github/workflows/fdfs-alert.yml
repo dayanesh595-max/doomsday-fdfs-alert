@@ -1,4 +1,4 @@
- Save this file at: .github/workflows/fdfs-alert.yml
+# Save this file at: .github/workflows/fdfs-alert.yml
 # Place avengers_doomsday_fdfs_alert.py in the root of your public GitHub repository.
 #
 # Required GitHub Repository Secret (Settings -> Secrets and variables -> Actions):
